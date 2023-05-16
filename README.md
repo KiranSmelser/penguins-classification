@@ -12,7 +12,7 @@
 
 
 ## General Information
-This Jupyter Notebook uses a random forest classifier to differentiate between different penguin speciies based on their attributes.
+This Jupyter Notebook uses a random forest classifier to differentiate between different penguin species based on their attributes.
 
 
 ## Technologies Used
